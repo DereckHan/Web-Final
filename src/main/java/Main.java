@@ -50,6 +50,24 @@ public class Main {
           return finalUser1;
       }, new JsonTransformer());
 
+      get("/GetXml",(req,res)->{
+          String xml =    "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" +
+                  "<destination>" +
+                  "<contry>China</contry>" +
+                  "<province>Beijing</province>" +
+                  "<population>2500w</population>" +
+                  "<coordination-x>12</coordination-x>" +
+                  "<coordination-y>85</coordination-y>" +
+                  "<area>120m^2</area>" +
+                  "<others>Capital</others>" +
+                  "<neighbour>Tianjin</neighbour>" +
+                  "<scenicspot>Tiananmen</scenicspot>" +
+                  "<famouspeople>Jingping Xi</famouspeople>" +
+                  "</destination>";
+          res.type("text/xml");
+          return xml;
+      });
+
       post("/json", (request, response) -> {
           return finalUser1;
       }, gson::toJson);
