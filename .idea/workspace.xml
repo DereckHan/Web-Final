@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="552ac669-bebf-4e6a-88d5-abbb0825fe4a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Eventlist.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/JsonTransformer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/User.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/lang-logo.png" afterPath="$PROJECT_DIR$/target/classes/public/lang-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/img/photo1.png" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/img/photo1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/img/photo2.png" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/img/photo2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/img/photo3.jpg" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/img/photo3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/img/photo4.jpg" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/img/photo4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/css/AdminLTE.min.css" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/css/AdminLTE.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/css/_all-skins.min.css" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/css/_all-skins.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/css/blue.css" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/css/blue.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/css/bootstrap3-wysihtml5.min.css" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/css/bootstrap3-wysihtml5.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/css/datepicker3.css" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/css/datepicker3.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/css/daterangepicker.css" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/css/daterangepicker.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/css/fullcalendar.min.css" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/css/fullcalendar.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/css/fullcalendar.print.css" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/css/fullcalendar.print.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/css/morris.css" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/css/morris.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/css/morris.min.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/css/morris.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/app.min.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/app.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/bootstrap-datepicker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/bootstrap3-wysihtml5.all.min.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/bootstrap3-wysihtml5.all.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/daterangepicker.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/daterangepicker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/fastclick.min.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/fastclick.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/fullcalendar.min.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/fullcalendar.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/icheck.min.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/icheck.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/index.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/jquery.knob.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/jquery.knob.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/jquery.slimscroll.min.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/jquery.slimscroll.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/jquery.sparkline.min.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/jquery.sparkline.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/public/stylesheets/js/morris.min.js" afterPath="$PROJECT_DIR$/target/classes/public/stylesheets/js/morris.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spark/template/freemarker/header.ftl" afterPath="$PROJECT_DIR$/target/classes/spark/template/freemarker/header.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spark/template/freemarker/home.ftl" afterPath="$PROJECT_DIR$/target/classes/spark/template/freemarker/home.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spark/template/freemarker/index.ftl" afterPath="$PROJECT_DIR$/target/classes/spark/template/freemarker/index.ftl" />
-    </list>
+    <list default="true" id="552ac669-bebf-4e6a-88d5-abbb0825fe4a" name="Default" comment="" />
     <ignored path="helloworld.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,8 +26,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+            <state relative-caret-position="225">
+              <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -100,9 +64,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="773" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -200,6 +163,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -657,15 +621,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481594301258</updated>
-      <workItem from="1481594304688" duration="56000" />
+      <workItem from="1481594304688" duration="242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56000" />
+    <option name="totallyTimeSpent" value="242000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -706,8 +670,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        <state relative-caret-position="225">
+          <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
           <folding />
         </state>
       </provider>
