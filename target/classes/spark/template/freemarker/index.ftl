@@ -49,7 +49,7 @@
         </div>
         <div id="login">
             <h1>Welcome Back!</h1>
-            <form action="./home">
+            <form action="./home" method="get">
                 <div class="field-wrap">
                     <label>
                         Email<span class="req">*</span>
