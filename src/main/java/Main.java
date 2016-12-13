@@ -77,6 +77,12 @@ public class Main {
             Map<String, Object> attributes = new HashMap<>();
             return new ModelAndView(attributes, "index.ftl");
         }, new FreeMarkerEngine());
+
+      get("/getData", (request, response) -> {
+          Map<String, Object> attributes = new HashMap<>();
+          return new ModelAndView(attributes, "getData.ftl");
+      }, new FreeMarkerEngine());
+
       User finalUser = user;
       get("/home", (request, response) -> {
             Map<String, Object> attributes = new HashMap<>();
