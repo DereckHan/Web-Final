@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <user id="001">
+        
+        <name>Derek Han</name>
+        <email>123456@pitt.edu</email>
+        <password>123456</password>
+        <membership>July 2011</membership>
+        <todolist>
+            <todo id="0">
+                <content>Web Presentation</content>
+                <available>2 hours</available>
+                <color>danger</color>
+                <date>2016-12-12</date>
+            </todo>
+            <todo id="1">
+                <content>SE Proposal</content>
+                <available>4 hours</available>
+                <color>warning</color>
+                <date>2016-12-12</date>
+            </todo>
+            <todo id="2">
+                <content>Client Server Final</content>
+                <available>1 day</available>
+                <color>info</color>
+                <date>2016-12-13</date>
+            </todo>
+            <todo id="3">
+                <content>Interview</content>
+                <available>3 days</available>
+                <color>success</color>
+                <date>2016-12-15</date>
+            </todo>
+        </todolist>
+        <chatlist id="0">
+            <chat id="0">
+                <speaker>Mike Doe</speaker>
+                <time>5:10</time>
+                <context>I would like to meet you to discuss the final report of SE.</context>
+                <src>./stylesheets/img/user3.jpg</src>
+            </chat>
+            <chat id="1">
+                <speaker>Derek Han</speaker>
+                <time>5:15</time>
+                <context>Sure, would you be available tomorrow?</context>
+                <src>./stylesheets/img/user1.jpg</src>
+            </chat>
+            <chat id="2">
+                <speaker>Mike Doe</speaker>
+                <time>5:20</time>
+                <context>How about 2pm tomorrow afternoon?</context>
+                <src>./stylesheets/img/user3.jpg</src>
+            </chat>
+            <chat id="3">
+                <speaker>Derek Han</speaker>
+                <time>5:21</time>
+                <context>Works fine for me.</context>
+                <src>./stylesheets/img/user1.jpg</src>
+            </chat>
+            <chat id="4">
+                <speaker>Mike Doe</speaker>
+                <time>5:22</time>
+                <context>See you then.</context>
+                <src>./stylesheets/img/user3.jpg</src>
+            </chat>
+        </chatlist>
+
+        <eventlist>
+            <event>
+                <context>Web Presentation</context>
+                <process>90%</process>
+            </event>
+            <event>
+                <context>SE Proposal</context>
+                <process>80%</process>
+            </event>
+            <event>
+                <context>Client Server Final</context>
+                <process>70%</process>
+            </event>
+        </eventlist>
+    </user>
