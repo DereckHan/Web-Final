@@ -1,4 +1,4 @@
-$('.form').find('input, textarea').on('keyup blur focus', function(e) {
+$('.form').find('input, textarea').on('keyup blur focus', function (e) {
 
     var $this = $(this),
         label = $this.prev('label');
@@ -26,7 +26,7 @@ $('.form').find('input, textarea').on('keyup blur focus', function(e) {
 
 });
 
-$('.tab a').on('click', function(e) {
+$('.tab a').on('click', function (e) {
 
     e.preventDefault();
 
@@ -40,3 +40,29 @@ $('.tab a').on('click', function(e) {
     $(target).fadeIn(600);
 
 });
+
+function signup() {
+    let firstname = $("#firstname").val(),
+        lastname = $("#lastname").val(),
+        email = $("#email").val(),
+        name = $("#password").val();
+    let data = {
+        email: email,
+        name: name,
+        password: password1,
+        status: status
+    };
+    $.ajax({
+        type: "POST",
+        url: "/json",
+        data: data,
+        success: function (data) {
+            
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            // throw error
+        },
+        dataType: "json"
+    });
+
+}
