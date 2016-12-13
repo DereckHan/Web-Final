@@ -30,7 +30,7 @@ public class Main {
 
   public static void main(String[] args) {
 
-    port(Integer.valueOf(System.getenv("PORT")));
+//    port(Integer.valueOf(System.getenv("PORT")));
     staticFileLocation("/public");
       Gson gson = new Gson();
 
@@ -46,7 +46,7 @@ public class Main {
       }
 
       User finalUser1 = user;
-      get("/json", "application/json", (request, response) -> {
+      get("/GetJson", "application/json", (request, response) -> {
           return finalUser1;
       }, new JsonTransformer());
 

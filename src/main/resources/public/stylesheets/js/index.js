@@ -45,19 +45,19 @@ function signup() {
     let firstname = $("#firstname").val(),
         lastname = $("#lastname").val(),
         email = $("#email").val(),
-        name = $("#password").val();
+        password = $("#password").val();
     let data = {
         email: email,
-        name: name,
-        password: password1,
-        status: status
+        firstname: firstname,
+        lastname: lastname,
+        password: password
     };
     $.ajax({
         type: "POST",
         url: "/json",
         data: data,
         success: function (data) {
-            
+            console.log(data);
         },
         error: function (jqXHR, textStatus, errorThrown) {
             // throw error
